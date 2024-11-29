@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Spotify Clone
 
-## Getting Started
+Este é um clone básico da interface do Spotify, criado usando React, Next.js e Tailwind CSS. O objetivo do projeto é replicar a interface de um serviço de streaming de música, com navegação, controle de reprodução e visualização de álbuns.
 
-First, run the development server:
+## 🔥 Introdução
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Este projeto tem como objetivo fornecer uma interface de usuário (UI) semelhante ao Spotify, onde os usuários podem navegar entre a biblioteca, buscar músicas e controlar a reprodução de álbuns e listas de reprodução.
+
+### ⚙️ Pré-requisitos
+
+Antes de começar, você precisará ter o Node.js instalado na sua máquina. Se você ainda não tem o Node.js, baixe e instale a versão mais recente a partir de [aqui](https://nodejs.org/).
+
+Além disso, você precisará ter o `npm` (Node Package Manager) ou `yarn` instalados.
+
+
+### 🔨 Guia de instalação
+
+1. Clone este repositório:
+```
+https://github.com/ribbeiroana/tailwind_spotify.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Navegue até o diretório do projeto:
+  ```
+cd spotify-clone
+``` 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Instale as dependências:
+  ```
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Execute o projeto:
+  ```
+npm run dev
+```
 
-## Learn More
+Agora, você deve ser capaz de acessar o projeto na sua máquina local.
 
-To learn more about Next.js, take a look at the following resources:
+## 📦 Tecnologias usadas:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este projeto foi criado utilizando as seguintes tecnologias:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2300B6B2.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+* ![Lucide React](https://img.shields.io/badge/lucide-react-%23000000.svg?style=for-the-badge&logo=lucide&logoColor=white)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este é apenas um clone da interface do Spotify, sem integração real com um backend. Funcionalidades como login de usuário, integração com uma API de música e playlist personalizada podem ser adicionadas no futuro.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 💡 Expressões de gratidão
+
+* Agradeço ao time do Spotify pela inspiração da interface.
+* Para suporte, envie um email para seuemail@dominio.com.
+* Link para meu LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
