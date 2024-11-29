@@ -3,7 +3,7 @@
 Este é um clone básico da interface do Spotify, criado usando React, Next.js e Tailwind CSS. O objetivo do projeto é replicar a interface de um serviço de streaming de música, com navegação, controle de reprodução e visualização de álbuns.
 
 <div>
-    <img src="" alt="projeto">
+    <img src="public/readme.png" alt="projeto">
 </div>
 
 ## 🔥 Introdução
