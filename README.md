@@ -48,9 +48,3 @@ Este projeto foi criado utilizando as seguintes tecnologias:
 
 
 Este é apenas um clone da interface do Spotify, sem integração real com um backend. Funcionalidades como login de usuário, integração com uma API de música e playlist personalizada podem ser adicionadas no futuro.
-
-## 💡 Expressões de gratidão
-
-* Agradeço ao time do Spotify pela inspiração da interface.
-* Para suporte, envie um email para seuemail@dominio.com.
-* Link para meu LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
